@@ -11,7 +11,7 @@ Template para desenvolvimento de projetos em ReactJS
   
 ## Instalação
  
-Após baixar o projeto ( via download ou  executar 
+Após baixar o projeto ( via download ou git clone )  executar 
   
 ```bash
 yarn install
